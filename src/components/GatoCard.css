@@ -1,0 +1,46 @@
+.card {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    width: 350px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .imagem-gato {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .info {
+    color: #333;
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  
+  .botoes {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .botao {
+    background-color: #5e2ca5;
+    border: none;
+    padding: 12px;
+    border-radius: 50%;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .botao:hover {
+    background-color: #753dcf;
+  }
+  
