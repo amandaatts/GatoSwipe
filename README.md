@@ -20,7 +20,7 @@ Ao curtir um gato, você tem **35% de chance de dar match** com ele. Se não der
 
 ## 📸 Preview
 
-![Preview do App](caminho/do/preview.png)  
+![Preview do App](https://github.com/user-attachments/assets/ce3972de-cb59-41bd-a722-0603956f9f85)  
 *💜 Swipe nos gatinhos e descubra seu par felino!*
 
 ## 🔧 Como rodar o projeto
